@@ -1,0 +1,17 @@
+# Maven build files
+/target/
+/bin/
+
+# Eclipse configuration
+.classpath
+.project
+.settings/
+
+# Environment and secret files
+.env
+.env.*
+application-local.properties
+application-secret.properties
+
+# Logs
+*.log
